@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"1dac5cc12a076d30","type":"text","text":"Grandparents","x":-100,"y":-420,"width":168,"height":60},
+		{"id":"754c4003604c5bb5","type":"text","text":"Grandfather\nGrandmother","x":140,"y":-420,"width":160,"height":60,"color":"2"},
+		{"id":"b5976b48d7a17cc0","type":"text","text":"Parents","x":-100,"y":-280,"width":168,"height":60,"color":"1"},
+		{"id":"ee0ed7f3049c7db0","type":"text","text":"Father\nMother","x":140,"y":-280,"width":160,"height":60,"color":"2"},
+		{"id":"73dac2a033de1da9","type":"text","text":"Daughter女儿\nSon儿子","x":-100,"y":-160,"width":168,"height":60,"color":"5"},
+		{"id":"789efbfb79358c8d","type":"text","text":"Aunt","x":120,"y":80,"width":180,"height":55,"color":"2"},
+		{"id":"64f4550c5c24457e","type":"text","text":"Cousin","x":40,"y":320,"width":156,"height":50},
+		{"id":"337da8dd0de80dd8","type":"text","text":"Uncle","x":-80,"y":80,"width":168,"height":55,"color":"2"}
+	],
+	"edges":[
+		{"id":"ef0e09493428f9ce","fromNode":"1dac5cc12a076d30","fromSide":"right","toNode":"754c4003604c5bb5","toSide":"left","label":"包含"},
+		{"id":"d366cd8c9bcaabda","fromNode":"1dac5cc12a076d30","fromSide":"bottom","toNode":"b5976b48d7a17cc0","toSide":"top","label":"下一代"},
+		{"id":"56ae4651e4e2acba","fromNode":"b5976b48d7a17cc0","fromSide":"right","toNode":"ee0ed7f3049c7db0","toSide":"left","label":"包含"},
+		{"id":"78a7297b59735aac","fromNode":"b5976b48d7a17cc0","fromSide":"bottom","toNode":"73dac2a033de1da9","toSide":"top","label":"下一代"},
+		{"id":"0e449e52de092999","fromNode":"337da8dd0de80dd8","fromSide":"bottom","toNode":"64f4550c5c24457e","toSide":"top"},
+		{"id":"c1e5bb03f531d59b","fromNode":"789efbfb79358c8d","fromSide":"bottom","toNode":"64f4550c5c24457e","toSide":"top"}
+	]
+}

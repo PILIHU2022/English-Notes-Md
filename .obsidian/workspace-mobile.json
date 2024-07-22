@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "9ea4ca7d15d50bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7dc388a1c60f308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8f2015036c36e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammars.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f37e6c4c58be976",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ce8af63cfe26fcbd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d4814dd3375568cd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d38c0bfd1769564d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e4768faf641581d3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e53832302d3d7d56",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da73001b46dedf96",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Grammars.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7faa7ec47d5a3f1a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Grammars.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7179437ade00baf3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Grammars.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d8f2015036c36e58",
+  "lastOpenFiles": [
+    "Exam-skills.canvas",
+    "Mind_Map.md",
+    "名词复数.canvas",
+    "Language.md",
+    "Tables.md",
+    "Grammars.md",
+    "Important_Grammars.md",
+    "称呼关系.canvas",
+    "Wait_For_Organize.md",
+    "Phrase_and_Words.md",
+    "The_usage.md",
+    "Character_summary.md",
+    "音标.md",
+    "Be.md",
+    "耻辱.md",
+    "Pictures/Private/3.jpg",
+    "Pictures/Private/1 (1).jpg",
+    "Pictures/Private/1.jpg",
+    "Pictures/Private",
+    "Pictures/耻辱/2.jpg",
+    "Pictures/耻辱/1.jpg",
+    "Pictures/耻辱",
+    "Pictures/音标/1.py",
+    "Pictures/音标/14.jpg",
+    "Pictures/音标/13.jpg",
+    "Pictures/音标/12.jpg",
+    "Pictures/音标/11.jpg",
+    "Pictures/音标/10.jpg",
+    "首页.md",
+    "Pictrues.md",
+    "Do_Not_Confirm.md",
+    "Pay.md",
+    "持续性动词.md",
+    "过去时.md",
+    "现在完成时.md",
+    "被动语态.md",
+    "让步状语从句.md",
+    "祈使句.md",
+    "主祈从现.md",
+    "主情从现.md",
+    "情态动词.md",
+    "非连续性动词",
+    "Untitled.canvas"
+  ]
+}
