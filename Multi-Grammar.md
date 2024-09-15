@@ -100,3 +100,15 @@ ask sb. for + { }:
 - help
 - permission
 - advice
+
+sacrifice:
+- n. 供品
+- v. 牺牲
+
+earth:
+- 地球
+- ~=soil -> 土壤
+
+What + { } == 你究竟干了什么:
+- on earth did you do?
+- the hell

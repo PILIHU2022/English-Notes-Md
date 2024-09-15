@@ -1,4 +1,9 @@
 # 单词
+selfish 自私的\
+hell 地狱\
+disagreement 分歧\
+enlarge 扩展\
+vocabulary 词汇\
 besides 除……外，还有（包括在内）\
 expect 除……外，还有（不包括在内）\
 support 支持\
@@ -138,4 +143,7 @@ sleep car 卧铺车\
 little by little 逐渐地\
 by then 到那时\
 It doesn't matter 不要紧\
-
+centuries = hundreds of year\
+thousands of 数以千计的\
+millions of 数以百万计的\
+moving = touching 感人的\

@@ -13,6 +13,12 @@ Other,another,The otherl,others 的区别
 3. The other 一般用作短语 One ... the other 一个...另一个...
 4. Others 代词后不接名词
 
+`al`形容词后缀:
+e.g:
+- traditional
+- nation -> national
+- person -> personal
+
 含有[[Be]]动词的一般疑问句：
 [[Be]] + 主语 + 其他？
 ——Yes, 主语 + [[Be]]

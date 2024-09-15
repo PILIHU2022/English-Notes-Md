@@ -282,5 +282,9 @@ pay attention + { }:
 
 be come rich/famous overnight 一夜暴富/一夜成名\
 Have sth. in common 在……有共同之处\
-call sb. at + 电话号码
-
+call sb. at + 电话号码\
+start the tradition of 开始……的传统\
+go to sw. for vacation 去去某地度假\
+those/that 用于表示比较的句子中，替代上文中出现的名词\
+take sb. out for lunch/dinner 带某人外出吃午餐/晚餐\
+make/earn money 赚钱
