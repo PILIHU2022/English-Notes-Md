@@ -26,3 +26,15 @@ Other,another,The otherl,others 的区别
 说：
 - say + 内容 say sth. to sb.
 - speak + 语种 speak English
+
+动名词做主语，用三单
+
+# 常考的不可数名词
+- <mark>iformation</mark>
+- weather
+- news
+- advice
+- music
+- \* \+ work
+- water
+- <mark>progress</mark>

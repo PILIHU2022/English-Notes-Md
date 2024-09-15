@@ -136,10 +136,6 @@ one ... the other 一个……另一个\
 continue to do sth 继续做某事\
 live in sw for + 一段时间 \
 stay in/at sw \
-spend + {}
-- in doing sth
-- on sth 在某方面花时间
-- time with sb 与某人共度时光
 
 another + 名词单数\
 other + 名词复数\
@@ -148,18 +144,9 @@ others + 代词，后面不加名词\
 主格 + 动词\
 动词 + 宾格\
 lead to \
-[[Be]] + {}:
-- 名词
-- 形容词
-- doing
 
 Practice doing sth 练习做某事\
 [[Be]] used to doing sth 习惯于做某事\
-{ } + with sb:
-- What's the matter
-- What's wrong
-- What's the trouble
-- What's the problem
 
 You had [[Be]]tter (not) do\
 had better：最好\
@@ -176,9 +163,6 @@ neither ... or ... 即使……也不……\
 as soon as 引导时间状语从句，遵循[[主将从现]]\
 borrow sth. from sb. 从……借来\
 lend sth. to sb. 借……给某人\
-hate + { }:
-- to do sth.
-- doing sth.
 
 sth. [[Be]] in mess 某物杂乱\
 It's one turn to do sth. 轮到某人做某事\
@@ -203,18 +187,12 @@ has meaning to sb. 对……有意义\
 look out of 向外看\
 neither + [[Be]]/[[助动词]]/[[情态动词]] + 主语\
 against + sb./sth./doing sth.\
-continue + { }:
-- to do sth.
-- doing sth.
 keep on doing sth.\
 marry sb. == get married with sb.\
 as long as 只要\
 all over the world 全世界\
 too ...(adj.) to ...(v.) 太……而不能……\
 keep sth. for sb\
-made + { }:
-- from 看不到原材料
-- of 看得到原材料
 [[感叹句语法]]\
 谓语动词是[[Be]]用形容词，是[[行为动词]]用adv.\
 happened to do sth. 碰巧\
@@ -222,16 +200,10 @@ any other + 名词单数：
 - any other:其他任何
 
 one of [[谓语动词]]用单数
-protect ... from + { }:
-- sth.
-- doing
 
 risk one's live 冒着生命危险\
 challenge oneself 挑战某人自己\
 the + 比较级 + of the two\
-{ } + 名词单数：
-- few 几乎没有
-- a few
 
 send ... to ... 把……送到……\
 feed on 以……为食\
@@ -272,31 +244,19 @@ among 三者以上的中间，加adj.最高级\
 regard ... as ... 把……视作为……\
 according to sb. 在某人看来\
 [[持续性动词]] + for + 一段时间\
-助动词(have/has) + [[持续性动词]]（过去分词） + since + { }:
-- 过去时态句子
-- 过去时间点
 
 sell sth. to sb.\
 as much as 与……相同\
 choose to do sth. 选择去做某事\
 return = go back = come back 返回\
-used to do sth. 过去常常做某事\
-opposite = across from 在……对面\
+used to do sth. 过去常常做某事
+
 名词单数修饰名词\
-train sb. to do sth. 
-provide + { }:
-- sth. for sb.
-- sb. with sth.
+train sb. to do sth.
 
 as well 在肯定句句末\
-die + { }:
-- of 内部因素
-- from 外部因素
 
 [[Pay]]
-see sb. + { }:
-- do sth.
-- doing sth.
 
 have/has Been in sw. (+ for + 一段时间)待在某地\
 offer sth. to sb.\
@@ -322,3 +282,5 @@ pay attention + { }:
 
 be come rich/famous overnight 一夜暴富/一夜成名\
 Have sth. in common 在……有共同之处\
+call sb. at + 电话号码
+

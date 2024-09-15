@@ -7,4 +7,4 @@
 	  - (money) for sth.
 	  - for (money)
 4. It takes sb. time to do.
-==注：此处的`(money)`为支付钱数==
+<mark>注：此处的`(money)`为支付钱数</mark>

@@ -1,6 +1,18 @@
 # 单词
+besides 除……外，还有（包括在内）\
+expect 除……外，还有（不包括在内）\
+support 支持\
 menbers 成员\
+exchange 交流\
+valuable 昂贵的\
 football fan 足球粉丝\
+customer 顾客\
+bill 账单/纸币\
+confuse 感到迷惑\
+surrounded 把……包围\
+handwriting 书写\
+c.n = 可数名词\
+uc.n = 不可数名词\
 waiter 服务员\
 musical instrunment 音乐乐器\
 except 除外\
@@ -113,3 +125,17 @@ Use it or lose it 不用则废\
 Practice makes perfect 孰能生巧\
 Even if 即使\
 Explain sth. to sb. 想……解释……
+Be stressed out 紧张的\
+on your own == by yourself 靠你自己\
+bit by bit 一点一点地\
+at once 立刻\
+Here is my advice 这是我的建议（固定搭配）`advice`不可数名词
+opposite = across from 在……对面\
+over and over again 反复\
+Where there is a will, there is a way 有志者，事竟成\
+tour operator 旅游社\
+sleep car 卧铺车\
+little by little 逐渐地\
+by then 到那时\
+It doesn't matter 不要紧\
+
