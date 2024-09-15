@@ -299,4 +299,26 @@ see sb. + { }:
 - doing sth.
 
 have/has Been in sw. (+ for + 一段时间)待在某地\
-offer sth. to sb.
+offer sth. to sb.\
+look up sb. 敬佩某人\
+look down upon sb. 轻视某人\
+have conversation with 和某人交流\
+spoken <语言> <语言>口语:
+- e.g. spoken English 英语口语
+
+<mark>in</mark> that way 用那种方式
+- 注：`in`为考点
+
+It takes time 慢慢来\
+The + 比较级，the + 比较级\
+Through + [[抽象名词]]\
+loudly 指声音太大或嘈杂，强调音量大\
+aloud 指为了让人听清而发出声音\
+find it + adj. + to do sth. 发现做某事怎么样(it 为形式宾语)\
+pay attention + { }:
+- to sth.
+- to + doing sth.
+- 注：`to`为宾语
+
+be come rich/famous overnight 一夜暴富/一夜成名\
+Have sth. in common 在……有共同之处\

@@ -37,6 +37,13 @@ rank 排序\
 senior 高级的\
 countable 可数的\
 inexpensive 便宜\
+describe 描述\
+seek 找\
+cure 治疗\
+creature 生物\
+creative 有创造力的\
+wise 明智的\
+structure 结构 \
 # 短语
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
@@ -95,3 +102,14 @@ stressed out 备受压力的\
 stayed the same 一成不变的\
 change for the better 变得更好\
 hand in 上交\
+as well 也（句末）\
+It's a piece of cake 小菜一碟\
+It serves you right 活该\
+You are not my cup of tea 你不是我的菜\
+from time to time 时不时\
+keep a diary 写日记\
+Whether ... or not ... 是否\
+Use it or lose it 不用则废\
+Practice makes perfect 孰能生巧\
+Even if 即使\
+Explain sth. to sb. 想……解释……
