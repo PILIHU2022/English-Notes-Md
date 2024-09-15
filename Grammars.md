@@ -123,9 +123,7 @@ one of + 形容词最高级\
 order ... from... 从……预订……\
 give sth to sb\
 give sb sth\
-感叹句：
-- 主语前有形容词，用How
-- 主语前有名词，用What
+
 
 一般情况下：\
 [[Be]] + 形容词 + to do sth
@@ -194,10 +192,17 @@ all over the world 全世界\
 too ...(adj.) to ...(v.) 太……而不能……\
 keep sth. for sb\
 [[感叹句语法]]\
-谓语动词是[[Be]]用形容词，是[[行为动词]]用adv.\
-happened to do sth. 碰巧\
+谓语动词是[[Be]]用形容词，是[[行为动词]]用adv.
+- 主语前有形容词，用How
+- 主语前有名词，用What
+- How + adj./adv. + 主语 + 谓语
+- What + a/an +adj. + 可数名词 + 主语 + 谓语
+- What + adj. + 可数名词复数/不可数名词 + 主语 + 谓语
+
 any other + 名词单数：
 - any other:其他任何
+
+happened to do sth. 碰巧\
 
 one of [[谓语动词]]用单数
 
@@ -287,4 +292,5 @@ start the tradition of 开始……的传统\
 go to sw. for vacation 去去某地度假\
 those/that 用于表示比较的句子中，替代上文中出现的名词\
 take sb. out for lunch/dinner 带某人外出吃午餐/晚餐\
-make/earn money 赚钱
+make/earn money 赚钱\
+with the help of 在……的帮助下

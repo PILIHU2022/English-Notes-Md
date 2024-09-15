@@ -61,6 +61,7 @@ creature 生物\
 creative 有创造力的\
 wise 明智的\
 structure 结构 \
+benfit 益处
 # 短语
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
@@ -147,3 +148,4 @@ centuries = hundreds of year\
 thousands of 数以千计的\
 millions of 数以百万计的\
 moving = touching 感人的\
+upside down 颠倒\

@@ -112,3 +112,17 @@ earth:
 What + { } == 你究竟干了什么:
 - on earth did you do?
 - the hell
+
+/ju:/:
+- a university
+- a European country
+- a useful book
+
+/^/:
+- an umbrella
+- an unlucky day
+
+remind:
+- sb. of/about sth. 提醒某人做某事
+- sb. to do sth. 提醒某人==去做==某事
+- sb. of doing sth. 提醒某人==做过==某事

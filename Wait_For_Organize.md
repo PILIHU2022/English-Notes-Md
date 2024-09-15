@@ -13,6 +13,8 @@ Other,another,The otherl,others 的区别
 3. The other 一般用作短语 One ... the other 一个...另一个...
 4. Others 代词后不接名词
 
+用复数名词表示种类
+
 `al`形容词后缀:
 e.g:
 - traditional
