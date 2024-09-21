@@ -13,13 +13,14 @@ lay(下蛋)-> laid(过去式) -> laid(过去分词)\
 
 有生命+`'s(单数，不以s结尾的)`以‘s’结尾的+`'`
 
-# 感叹句 Waiting for e.g.
+# 感叹句 (Waiting for e.g.)
 ? What + 名词短语 + 谓语
 How + adj./adv. + 主语 (+ 谓语)
 How + 主语 + 谓语+ 其他
 What 修饰名词，How 修饰形容词/副词
 （How 与形副紧相连，名词短语用What）
 
+技巧：将句中`主谓+其他部分`去掉，最后一个词是名词则用`What`，最后一个词是形容词或副词则用`How`
 # 宾语从句
 ## 只能用Wheter的情况：
 1. 前有介词 e.g.: of wheter

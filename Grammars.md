@@ -293,4 +293,11 @@ go to sw. for vacation 去去某地度假\
 those/that 用于表示比较的句子中，替代上文中出现的名词\
 take sb. out for lunch/dinner 带某人外出吃午餐/晚餐\
 make/earn money 赚钱\
-with the help of 在……的帮助下
+with the help of 在……的帮助下\
+not ... only ... 不仅……而且……\
+be tied to 与……紧密相关\
+rush out of ... 冲出……\
+<mark>regard ... as ... 把……当作</mark>\
+as <mark>...</mark> as possible 尽可能\
+- 注：`...`为考点（原级）
+

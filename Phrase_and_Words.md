@@ -1,14 +1,22 @@
 # 单词
 selfish 自私的\
 hell 地狱\
+decorate 装饰v.\
+cracker 鞭炮\
+escalator 手扶电梯\
+obey = follow 遵守\
+frustrated 沮丧的\
+perseverance 坚持\
 disagreement 分歧\
 enlarge 扩展\
+bonfire 篝火\
 vocabulary 词汇\
 besides 除……外，还有（包括在内）\
 expect 除……外，还有（不包括在内）\
 support 支持\
 menbers 成员\
 exchange 交流\
+benfit 益处\
 valuable 昂贵的\
 football fan 足球粉丝\
 customer 顾客\
@@ -35,6 +43,9 @@ Company 公司\
 Physics 物理\
 Painful 痛苦的\
 Thoughtful 深思熟虑的\
+tomb 墓\
+ancestor 祖先\
+poet 诗人\
 Almost 几乎\
 illness 疾病\
 carry 抬\
@@ -46,6 +57,7 @@ retirment 退休\
 last 用作动词时有==持续==的意思\
 forgive 原谅\
 as = when 当……时\
+pass = go past 经过\
 purpose 目的\
 director 导演\
 increasing 增长\
@@ -149,3 +161,9 @@ thousands of 数以千计的\
 millions of 数以百万计的\
 moving = touching 感人的\
 upside down 颠倒\
+spread around 传播\
+latern fair 灯会/展\
+also known as 也作为……而出名\
+show respect for sb. 表达对……的尊重\
+put on a play 上演一个戏剧\
+stay away from ... 远离……\

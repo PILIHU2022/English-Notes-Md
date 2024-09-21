@@ -126,3 +126,23 @@ remind:
 - sb. of/about sth. 提醒某人做某事
 - sb. to do sth. 提醒某人==去做==某事
 - sb. of doing sth. 提醒某人==做过==某事
+
+drop:
+- v. 扔下
+- n. 一滴…… （e.g:a drop of water）
+
+play:
+- n. 戏剧
+- v. 玩/播放
+
+如何处理:
+- What to do with
+- How to deal with
+
+lift:
+- v. 举起
+- n. 升降机（电梯）
+
+experience:
+- v. 体验
+- n. 经历（<mark>可数</mark>），经验（<mark>不可数</mark>）
