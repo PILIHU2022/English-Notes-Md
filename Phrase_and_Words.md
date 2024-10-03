@@ -1,7 +1,21 @@
 # 单词
 selfish 自私的\
+smooth 光滑的\
 hell 地狱\
+Tibet 西藏\
 decorate 装饰v.\
+suitable 合适的\
+portion 份额
+hospitable 好客的\
+meanwhile 同时\
+Confucius 孔子\
+drug 药品\
+ditch 沟渠\
+afford 支付\
+sail 帆\
+calm 冷静的\
+comedy 喜剧\
+tragedy 悲剧\
 cracker 鞭炮\
 escalator 手扶电梯\
 obey = follow 遵守\
@@ -59,7 +73,7 @@ forgive 原谅\
 as = when 当……时\
 pass = go past 经过\
 purpose 目的\
-director 导演\
+director 导演、主任\
 increasing 增长\
 reduce 减少\
 rank 排序\
@@ -167,3 +181,5 @@ also known as 也作为……而出名\
 show respect for sb. 表达对……的尊重\
 put on a play 上演一个戏剧\
 stay away from ... 远离……\
+and + 好事 那么\
+or + 坏事 否则

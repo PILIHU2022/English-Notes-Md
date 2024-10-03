@@ -301,3 +301,12 @@ rush out of ... 冲出……\
 as <mark>...</mark> as possible 尽可能\
 - 注：`...`为考点（原级）
 
+walk up to sb. 走向\
+cause sb. to do sth. 是某人做某事\
+dare to do sth. 敢于做某事\
+went on = last 延续\
+stare at sb. 盯着sb.看\
+be on ... team = play for ... 为……队效力/是……的队员\
+It has been + 时间段 + since从句（过去式）\
+be pround of sth. 为……感到骄傲\
+be expected to 不应该\

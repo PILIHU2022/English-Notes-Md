@@ -146,3 +146,22 @@ lift:
 experience:
 - v. 体验
 - n. 经历（<mark>可数</mark>），经验（<mark>不可数</mark>）
+
+提供某物给某人:
+- provide sth. for sb.
+- provide sb. with sth.
+- offer sb. sth.
+
+start:
+- doing sth.
+- <mark>to do sth.</mark>
+
+建议:
+- suggest sth. to sb.
+- suggest to do sth.
+- suggest that + 宾语从句
+- advise sb. to do sth.
+
+询问:
+- What does sb. look like 问外貌
+- What is sb. like 问性格

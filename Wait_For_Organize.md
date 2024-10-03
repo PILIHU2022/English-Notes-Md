@@ -36,7 +36,7 @@ e.g:
 - speak + 语种 speak English
 
 动名词做主语，用三单
-
+suggestion(可数名词)-->advice(不可数名词)
 # 常考的不可数名词
 - <mark>iformation</mark>
 - weather

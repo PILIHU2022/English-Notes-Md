@@ -5,9 +5,9 @@
 		{"id":"461b376d99ccac67","type":"text","text":"When + 介词 + 时间","x":-181,"y":-7,"width":221,"height":50,"color":"2"},
 		{"id":"65477872034511a4","type":"text","text":"Where + 介词 + 地点","x":-400,"y":-160,"width":220,"height":50,"color":"2"},
 		{"id":"7d2a39cb8cb7527d","type":"text","text":"Who","x":-120,"y":-260,"width":100,"height":50,"color":"2"},
-		{"id":"4aa8cf64893f95e5","x":-140,"y":-480,"width":119,"height":61,"color":"1","type":"text","text":"完整回答"},
-		{"id":"9f62a51c7d115cac","x":-120,"y":-380,"width":101,"height":50,"color":"2","type":"text","text":"How"},
-		{"id":"e35fa54871cd83f0","x":40,"y":-480,"width":98,"height":50,"color":"2","type":"text","text":"What"}
+		{"id":"4aa8cf64893f95e5","type":"text","text":"完整回答","x":-140,"y":-480,"width":119,"height":61,"color":"1"},
+		{"id":"9f62a51c7d115cac","type":"text","text":"How","x":-131,"y":-380,"width":101,"height":50,"color":"2"},
+		{"id":"e35fa54871cd83f0","type":"text","text":"What","x":40,"y":-474,"width":98,"height":50,"color":"2"}
 	],
 	"edges":[
 		{"id":"43fb43ccb9fe564e","fromNode":"32016971e3eadfed","fromSide":"left","toNode":"b824c156e17ef174","toSide":"right"},
