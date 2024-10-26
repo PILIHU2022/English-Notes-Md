@@ -165,3 +165,71 @@ start:
 询问:
 - What does sb. look like 问外貌
 - What is sb. like 问性格
+
+notice:
+- n. 通知
+- v. 留意(notice sb. dong/do sth.)
+
+break:
+- v. 打破
+- n. 休息
+
+brush:
+- n. 刷子
+- v. 刷
+
+stick:
+- 棍子
+- walking stick 拐杖
+- past stick 接力棒
+- v. 插入，坚持
+
+master:
+- v. 掌握
+- n. 大师
+
+age:
+- n. 年龄，时代
+- v. 使成熟，变老
+
+bridge:
+- n. 桥梁
+- v. 搭建桥梁
+
+sth. happen + { }:
+- to ==sb==
+- sw./某时
+
+be good + { }:
+- for 对……有好处
+- at 擅长做某事  == do well in sth.
+- with 接人时，为“善于和某人相处”；接其他名词时，指“善于使用某物”
+- to 对……好
+
+be known/famous + { }:
+- for 以……闻名
+- at 作为……而闻名
+- to 为……所熟知
+
+judge:
+- n. 法官，裁判，评判
+- v. 评价，评定
+
+be/get ready + { }:
+- for sth.(n.)
+- to do sth.(v.)
+
+{ } + 原级:
+- that
+- very
+- too
+- so
+
+buy + { }:
+- sb. sth.
+- sth. for sb.
+
+{ } + sth. to sb.:
+- give
+- show
+- pass

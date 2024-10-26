@@ -1,11 +1,29 @@
 # 单词
 selfish 自私的\
+mean 自私的\
+ceremony 典礼\
+graduation 毕业\
+draw 画，吸引\
+evil 邪恶\
+grateful == thankful\
+vampire 吸血鬼\
+scissor==s== 剪刀\
+childish 幼稚的\
+diver 跳水运动员\
+narrow 窄的\
+disease 疾病\
+afford 支付\
+affect 影响\
+unpleasant 不和谐的\
+remain 保持\
 smooth 光滑的\
 hell 地狱\
+generous 慷慨大方的\
 Tibet 西藏\
 decorate 装饰v.\
 suitable 合适的\
-portion 份额
+lecture 讲座\
+portion 份额\
 hospitable 好客的\
 meanwhile 同时\
 Confucius 孔子\
@@ -72,6 +90,7 @@ last 用作动词时有==持续==的意思\
 forgive 原谅\
 as = when 当……时\
 pass = go past 经过\
+identify 辨别/认\
 purpose 目的\
 director 导演、主任\
 increasing 增长\
@@ -182,4 +201,8 @@ show respect for sb. 表达对……的尊重\
 put on a play 上演一个戏剧\
 stay away from ... 远离……\
 and + 好事 那么\
-or + 坏事 否则
+or + 坏事 否则\
+on a business trip 出差\
+make noises 制造噪音\
+The Beld and Road 一带一路\
+go by 流逝\

@@ -31,5 +31,15 @@ What 修饰名词，How 修饰形容词/副词
 - 主过从过
 - 客观真理永远现（一般现在时）
 
+# 制造
+- be made of + 材料 （看得出原材料）
+- be made from + 材料 （看不出原材料）
+- be made in + sw. 在某地被制造
+- be made by sb. 由某人制造
+
 ## 其他
 `Believe`,`hope`,`tell`,`say`,`think`,`promise` + that + 宾语从句（陈述句）
+
+表物质的名词不可数
+
+other(adj.) + n.(复数) == other(代词)

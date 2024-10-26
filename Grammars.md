@@ -277,6 +277,7 @@ spoken <语言> <语言>口语:
 It takes time 慢慢来\
 The + 比较级，the + 比较级\
 Through + [[抽象名词]]\
+in + [[抽象名词]]（表处于某种状态）\
 loudly 指声音太大或嘈杂，强调音量大\
 aloud 指为了让人听清而发出声音\
 find it + adj. + to do sth. 发现做某事怎么样(it 为形式宾语)\
@@ -310,3 +311,7 @@ be on ... team = play for ... 为……队效力/是……的队员\
 It has been + 时间段 + since从句（过去式）\
 be pround of sth. 为……感到骄傲\
 be expected to 不应该\
+not only ... but also 不仅……而且……\
+It's + 修饰人的形容词 + of + sb. + to do sth.\
+punish sb. for sth. 因某事惩罚某人\
+rather than  == instead of

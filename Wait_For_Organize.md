@@ -46,3 +46,9 @@ suggestion(可数名词)-->advice(不可数名词)
 - \* \+ work
 - water
 - <mark>progress</mark>
+
+say to oneself 心里想\
+come to oneself 苏醒\
+teach oneself 自学\
+help oneself to sth. 请自便\
+make oneself feel at home 使某人感到宾至如归\
