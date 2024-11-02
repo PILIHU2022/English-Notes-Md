@@ -2,12 +2,22 @@
 selfish 自私的\
 mean 自私的\
 ceremony 典礼\
+attractive 迷人的\
+crystal 水晶\
+slipper 拖鞋\
+gunpouder 火药\
+compass 指南针\
+suitcase 行李箱\
+fit 适合\
+poetry 诗（总称）、诗作
 graduation 毕业\
 draw 画，吸引\
 evil 邪恶\
 grateful == thankful\
 vampire 吸血鬼\
 scissor==s== 剪刀\
+right n. 权利\
+athlete 运动员\
 childish 幼稚的\
 diver 跳水运动员\
 narrow 窄的\
@@ -206,3 +216,4 @@ on a business trip 出差\
 make noises 制造噪音\
 The Beld and Road 一带一路\
 go by 流逝\
+stay on == focous on 专注\

@@ -52,3 +52,5 @@ come to oneself 苏醒\
 teach oneself 自学\
 help oneself to sth. 请自便\
 make oneself feel at home 使某人感到宾至如归\
+
+take place （有计划的）发生-> happen（意外的）发生

@@ -16,7 +16,9 @@
                 "file": "Wait_For_Organize.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Wait_For_Organize"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -44,13 +48,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "in 抽象名词",
+            "query": "",
             "matchingCase": true,
             "explainSearch": true,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,11 +77,13 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e53832302d3d7d56",
@@ -93,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -105,7 +117,9 @@
             "file": "Wait_For_Organize.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -115,7 +129,9 @@
           "type": "outline",
           "state": {
             "file": "Wait_For_Organize.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -123,18 +139,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "66dec2b240b03417",
   "lastOpenFiles": [
-    "Multi-Grammar.md",
     "Phrase_and_Words.md",
+    "Multi-Grammar.md",
+    "Wait_For_Organize.md",
     "Important_Grammars.md",
     "Language.md",
     "Grammars.md",
@@ -144,7 +161,6 @@
     "Pay.md",
     "Character_summary.md",
     "系表结构.md",
-    "Wait_For_Organize.md",
     "Exam-skills.canvas",
     "首页.md",
     "未命名.canvas",

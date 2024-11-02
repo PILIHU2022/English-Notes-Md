@@ -233,3 +233,7 @@ buy + { }:
 - give
 - show
 - pass
+
+rule:
+- n. 规则
+- v. 统治
