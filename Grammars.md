@@ -314,4 +314,5 @@ be expected to 不应该\
 not only ... but also 不仅……而且……\
 It's + 修饰人的形容词 + of + sb. + to do sth.\
 punish sb. for sth. 因某事惩罚某人\
-rather than  == instead of
+rather than  == instead of\
+keep/prevent sb. from doing sth. 阻止某人做某事\

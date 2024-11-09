@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wait_For_Organize.md",
+                "file": "Phrase_and_Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wait_For_Organize"
+              "title": "Phrase_and_Words"
             }
           }
         ]
@@ -83,7 +83,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e53832302d3d7d56",
@@ -149,12 +149,15 @@
   },
   "active": "66dec2b240b03417",
   "lastOpenFiles": [
-    "Phrase_and_Words.md",
-    "Multi-Grammar.md",
     "Wait_For_Organize.md",
+    "Phrase_and_Words.md",
+    "Grammars.md",
+    "Multi-Grammar.md",
+    "首页.md",
+    "让步状语从句.md",
+    "耻辱.md",
     "Important_Grammars.md",
     "Language.md",
-    "Grammars.md",
     "Mind_Map.md",
     "Notices.md",
     "Usage_of_The.md",
@@ -162,10 +165,8 @@
     "Character_summary.md",
     "系表结构.md",
     "Exam-skills.canvas",
-    "首页.md",
     "未命名.canvas",
     "抽象名词.md",
-    "耻辱.md",
     "主情从现.md",
     "主将从现.md",
     "名词复数.canvas",
@@ -191,7 +192,6 @@
     "持续性动词.md",
     "过去时.md",
     "现在完成时.md",
-    "被动语态.md",
     "非连续性动词",
     "Untitled.canvas"
   ]

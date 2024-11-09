@@ -4,7 +4,11 @@ mean 自私的\
 ceremony 典礼\
 attractive 迷人的\
 crystal 水晶\
+bitter 苦的\
+spicy 辣的\
+vinegar 辣的\
 slipper 拖鞋\
+<mark>prevent</mark>预防\
 gunpouder 火药\
 compass 指南针\
 suitcase 行李箱\
@@ -52,6 +56,9 @@ perseverance 坚持\
 disagreement 分歧\
 enlarge 扩展\
 bonfire 篝火\
+weath 财富\
+wisdom 智慧\
+shelves 书柜\
 vocabulary 词汇\
 besides 除……外，还有（包括在内）\
 expect 除……外，还有（不包括在内）\
@@ -217,3 +224,10 @@ make noises 制造噪音\
 The Beld and Road 一带一路\
 go by 流逝\
 stay on == focous on 专注\
+translate into 翻译\
+all of a sudden == suddenly 突然\
+biscuit 饼干\
+on purpose 故意地\
+use up ==  run out of 用完\
+dry up 干涸\
+take over 接收\
