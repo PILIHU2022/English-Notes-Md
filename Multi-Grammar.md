@@ -241,3 +241,17 @@ rule:
 trade:
 - n. 贸易
 - v. 买卖
+
+bark:
+- n. 树皮
+- v.狗吠
+
+比赛:
+- race 田径类
+- match/game 球类
+- competition 才艺类
+- game 游戏类
+
+have noting + { }:
+- against 不反对
+- for 不支持

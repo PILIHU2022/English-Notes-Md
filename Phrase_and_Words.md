@@ -1,13 +1,21 @@
 # 单词
 selfish 自私的\
+poisoned 下毒\
+brunch 早餐\
+solar 太阳能\
+squzeeze 挤压\
 mean 自私的\
 ceremony 典礼\
+gap 鸿沟\
 attractive 迷人的\
 crystal 水晶\
 bitter 苦的\
 spicy 辣的\
+obviously 明显地\
 vinegar 辣的\
 slipper 拖鞋\
+emberrassed 尴尬\
+bracket 括号\
 <mark>prevent</mark>预防\
 gunpouder 火药\
 compass 指南针\
@@ -231,3 +239,7 @@ on purpose 故意地\
 use up ==  run out of 用完\
 dry up 干涸\
 take over 接收\
+peck on 啄食\
+regret doing sth.\
+be worn out 穿烂了\
+hand in 上交\
