@@ -1,4 +1,5 @@
 # 单词
+thief 贼\
 selfish 自私的\
 poisoned 下毒\
 brunch 早餐\
@@ -225,6 +226,7 @@ also known as 也作为……而出名\
 show respect for sb. 表达对……的尊重\
 put on a play 上演一个戏剧\
 stay away from ... 远离……\
+<<<<<<< HEAD
 and + 好事 那么\
 or + 坏事 否则\
 on a business trip 出差\
@@ -243,3 +245,5 @@ peck on 啄食\
 regret doing sth.\
 be worn out 穿烂了\
 hand in 上交\
+more than just 不仅仅是\
+in the distance 在远处

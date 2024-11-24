@@ -147,6 +147,7 @@ experience:
 - v. 体验
 - n. 经历（<mark>可数</mark>），经验（<mark>不可数</mark>）
 
+<<<<<<< HEAD
 提供某物给某人:
 - provide sth. for sb.
 - provide sb. with sth.
@@ -255,3 +256,7 @@ bark:
 have noting + { }:
 - against 不反对
 - for 不支持
+
+film:
+- n. 电影，胶卷
+- v. 拍摄

@@ -43,3 +43,5 @@ What 修饰名词，How 修饰形容词/副词
 表物质的名词不可数
 
 other(adj.) + n.(复数) == other(代词)
+the number of 谓语动词用复数形式，……的数量
+a number of 谓语动词用单数形式，大量的

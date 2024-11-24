@@ -301,6 +301,7 @@ rush out of ... 冲出……\
 <mark>regard ... as ... 把……当作</mark>\
 as <mark>...</mark> as possible 尽可能\
 - 注：`...`为考点（原级）
+catch up with sb. 赶上sb.\
 
 walk up to sb. 走向\
 cause sb. to do sth. 是某人做某事\
