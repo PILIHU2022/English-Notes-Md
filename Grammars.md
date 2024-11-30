@@ -321,3 +321,6 @@ urge sb. to do 催促\
 make a contribution to doing sth. 为……做贡献\
 support sb. with sth. 用某物支持某人\
 have one's support 得到某人的支持\
+be curious about 对……感到好奇\
+pull sth. up from sw. 把sth.从sw.拉上来
+be supposed to 应该\

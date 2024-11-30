@@ -14,6 +14,7 @@ bitter 苦的\
 spicy 辣的\
 obviously 明显地\
 vinegar 辣的\
+==frustrated== == down\
 slipper 拖鞋\
 emberrassed 尴尬\
 bracket 括号\
@@ -226,7 +227,6 @@ also known as 也作为……而出名\
 show respect for sb. 表达对……的尊重\
 put on a play 上演一个戏剧\
 stay away from ... 远离……\
-<<<<<<< HEAD
 and + 好事 那么\
 or + 坏事 否则\
 on a business trip 出差\
@@ -247,3 +247,4 @@ be worn out 穿烂了\
 hand in 上交\
 more than just 不仅仅是\
 in the distance 在远处
+
