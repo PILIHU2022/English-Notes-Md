@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrase_and_Words.md",
-                "mode": "source",
-                "source": false
+                "file": "Tables.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Phrase_and_Words"
+              "title": "Tables"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Search"
+          "title": "搜索"
         }
       },
       {
@@ -149,9 +149,10 @@
   },
   "active": "66dec2b240b03417",
   "lastOpenFiles": [
-    "Important_Grammars.md",
-    "Phrase_and_Words.md",
     "Grammars.md",
+    "Phrase_and_Words.md",
+    "Tables.md",
+    "Important_Grammars.md",
     "Multi-Grammar.md",
     "频率副词.md",
     "Wait_For_Organize.md",
@@ -171,7 +172,6 @@
     "主情从现.md",
     "主将从现.md",
     "名词复数.canvas",
-    "Tables.md",
     "称呼关系.canvas",
     "音标.md",
     "Be.md",

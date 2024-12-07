@@ -7,10 +7,13 @@ solar 太阳能\
 squzeeze 挤压\
 mean 自私的\
 ceremony 典礼\
+passion 激情\
 gap 鸿沟\
+==frustrated = down adj. 沮丧的==\
 attractive 迷人的\
 crystal 水晶\
 bitter 苦的\
+persistence 坚持\
 spicy 辣的\
 obviously 明显地\
 vinegar 辣的\

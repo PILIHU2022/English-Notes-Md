@@ -324,3 +324,7 @@ have one's support 得到某人的支持\
 be curious about 对……感到好奇\
 pull sth. up from sw. 把sth.从sw.拉上来
 be supposed to 应该\
+be curious about 对……感到好奇\
+pull sth. up from sw. 把sth.从sw.拉上来\
+It's + adj(人) + of + sb. to do sth.\
+get rid of ... 去除……\
