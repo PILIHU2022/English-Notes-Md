@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tables.md",
-                "mode": "preview",
+                "file": "Grammars.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "Grammars"
             }
           }
         ]
@@ -149,8 +149,8 @@
   },
   "active": "66dec2b240b03417",
   "lastOpenFiles": [
-    "Grammars.md",
     "Phrase_and_Words.md",
+    "Grammars.md",
     "Tables.md",
     "Important_Grammars.md",
     "Multi-Grammar.md",

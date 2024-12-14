@@ -15,6 +15,8 @@ crystal 水晶\
 bitter 苦的\
 persistence 坚持\
 spicy 辣的\
+passion 激情\
+persistence 坚持
 obviously 明显地\
 vinegar 辣的\
 ==frustrated== == down\

@@ -328,3 +328,5 @@ be curious about 对……感到好奇\
 pull sth. up from sw. 把sth.从sw.拉上来\
 It's + adj(人) + of + sb. to do sth.\
 get rid of ... 去除……\
+be worth doing sth. 做sth.是值得的\
+be relaxed about sth. 对……随意\
