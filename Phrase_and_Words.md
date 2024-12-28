@@ -251,5 +251,10 @@ regret doing sth.\
 be worn out 穿烂了\
 hand in 上交\
 more than just 不仅仅是\
-in the distance 在远处
-
+in the distance 在远处\
+leave behind 遗留\
+leave alone 不关\
+take turns 轮流\
+make up 编造\
+excuse 借口\
+therefore 所以\

@@ -330,3 +330,7 @@ It's + adj(人) + of + sb. to do sth.\
 get rid of ... 去除……\
 be worth doing sth. 做sth.是值得的\
 be relaxed about sth. 对……随意\
+get mad at = be angry with\
+sth. happen to sb. 某人出了某事\
+sb. happen to do sth. 某人碰巧做了某事\
+leave for + sw. 动身去某地\

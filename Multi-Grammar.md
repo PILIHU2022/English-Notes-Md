@@ -260,3 +260,7 @@ have noting + { }:
 film:
 - n. 电影，胶卷
 - v. 拍摄
+
+benefit:
+- n. 利益
+- v. 使……受益，对……有用
