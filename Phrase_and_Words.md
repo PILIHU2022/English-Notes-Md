@@ -1,4 +1,5 @@
 # 单词
+athlete 运动员\
 thief 贼\
 selfish 自私的\
 poisoned 下毒\
@@ -7,10 +8,13 @@ solar 太阳能\
 squzeeze 挤压\
 mean 自私的\
 ceremony 典礼\
+panic 恐慌\
 passion 激情\
 gap 鸿沟\
 ==frustrated = down adj. 沮丧的==\
 attractive 迷人的\
+excuse 借口\
+therefore 所以\
 crystal 水晶\
 bitter 苦的\
 persistence 坚持\
@@ -20,6 +24,7 @@ persistence 坚持
 obviously 明显地\
 vinegar 辣的\
 ==frustrated== == down\
+==destroy== 摧毁\
 slipper 拖鞋\
 emberrassed 尴尬\
 bracket 括号\
@@ -256,5 +261,7 @@ leave behind 遗留\
 leave alone 不关\
 take turns 轮流\
 make up 编造\
-excuse 借口\
-therefore 所以\
+what's going on 正在发生什么事\
+play tricks/jokes on sb. 和某人开玩笑\
+can afford sth./to do sth. 能够负担得起某事/做某事\
+take action to do sth. 采取行动做某事\

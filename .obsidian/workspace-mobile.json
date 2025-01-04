@@ -48,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "get mad with ",
             "matchingCase": true,
             "explainSearch": true,
             "collapseAll": false,
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wait_For_Organize.md",
+            "file": "Grammars.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "反向链接"
         }
       },
       {
@@ -150,11 +150,11 @@
   "active": "66dec2b240b03417",
   "lastOpenFiles": [
     "Phrase_and_Words.md",
+    "Important_Grammars.md",
     "Grammars.md",
     "Multi-Grammar.md",
     "未命名.md",
     "Tables.md",
-    "Important_Grammars.md",
     "频率副词.md",
     "Wait_For_Organize.md",
     "首页.md",

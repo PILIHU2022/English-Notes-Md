@@ -48,3 +48,9 @@ the number of 谓语动词用复数形式，……的数量
 a number of 谓语动词用单数形式，大量的
 
 It's + adj.(人) + of sb. to do sth.
+
+by the time 从句用过去式，主句用过去完成时
+
+复数名词表种类
+
+物质名词不可数
