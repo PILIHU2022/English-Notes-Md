@@ -336,4 +336,5 @@ sb. happen to do sth. 某人碰巧做了某事\
 leave for + sw. 动身去某地\
 join in + 活动/事件\
 invite sb. onto …… 邀请某人参加表演\
-make oneself to + 过去分词
+make oneself to + 过去分词\
+pay off 回报

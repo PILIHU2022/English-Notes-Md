@@ -265,3 +265,4 @@ what's going on 正在发生什么事\
 play tricks/jokes on sb. 和某人开玩笑\
 can afford sth./to do sth. 能够负担得起某事/做某事\
 take action to do sth. 采取行动做某事\
+in change 零钱
