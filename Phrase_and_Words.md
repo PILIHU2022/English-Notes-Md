@@ -1,4 +1,6 @@
 # 单词
+noble 贵族\
+royal 皇帝\
 athlete 运动员\
 thief 贼\
 selfish 自私的\
@@ -11,7 +13,7 @@ ceremony 典礼\
 panic 恐慌\
 passion 激情\
 gap 鸿沟\
-==frustrated = down adj. 沮丧的==\
+<mark>frustrated = down adj. 沮丧的</mark>\
 attractive 迷人的\
 excuse 借口\
 therefore 所以\
@@ -23,8 +25,8 @@ passion 激情\
 persistence 坚持
 obviously 明显地\
 vinegar 辣的\
-==frustrated== == down\
-==destroy== 摧毁\
+frustrated sth. down\
+destroy 摧毁\
 slipper 拖鞋\
 emberrassed 尴尬\
 bracket 括号\
@@ -39,7 +41,7 @@ draw 画，吸引\
 evil 邪恶\
 grateful == thankful\
 vampire 吸血鬼\
-scissor==s== 剪刀\
+scissor<mark>s</mark> 剪刀\
 right n. 权利\
 athlete 运动员\
 childish 幼稚的\
@@ -123,7 +125,7 @@ transportation 交通工具\
 paragraph(简写para) 段\
 skim 略读\
 retirment 退休\
-last 用作动词时有==持续==的意思\
+last 用作动词时有<mark>持续</mark>的意思\
 forgive 原谅\
 as = when 当……时\
 pass = go past 经过\
@@ -144,7 +146,9 @@ creative 有创造力的\
 wise 明智的\
 structure 结构 \
 benfit 益处
+
 # 短语
+
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
 Calmed down 静下来\
@@ -248,7 +252,7 @@ translate into 翻译\
 all of a sudden == suddenly 突然\
 biscuit 饼干\
 on purpose 故意地\
-use up ==  run out of 用完\
+use up == run out of 用完\
 dry up 干涸\
 take over 接收\
 peck on 啄食\
@@ -265,4 +269,10 @@ what's going on 正在发生什么事\
 play tricks/jokes on sb. 和某人开玩笑\
 can afford sth./to do sth. 能够负担得起某事/做某事\
 take action to do sth. 采取行动做某事\
-in change 零钱
+in change 零钱\
+blow away 吹走\
+break out 爆发\
+get rid of 除去\
+in one's eyes 在sb.看来\
+get to know 渐渐明白\
+refer to 指的是

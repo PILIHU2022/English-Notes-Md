@@ -1,7 +1,3 @@
-well:
-- n. 水井
-- adj./adv. 好
-
 see sb. + { }:
 - do sth.
 - doing sth.
@@ -91,23 +87,10 @@ train:
 - over 正上方，不接触
 - above 上方
 
-
-mine:
-- 我的
-- n. 矿
-
 ask sb. for + { }:
 - help
 - permission
 - advice
-
-sacrifice:
-- n. 供品
-- v. 牺牲
-
-earth:
-- 地球
-- ~=soil -> 土壤
 
 What + { } == 你究竟干了什么:
 - on earth did you do?
@@ -127,27 +110,10 @@ remind:
 - sb. to do sth. 提醒某人==去做==某事
 - sb. of doing sth. 提醒某人==做过==某事
 
-drop:
-- v. 扔下
-- n. 一滴…… （e.g:a drop of water）
-
-play:
-- n. 戏剧
-- v. 玩/播放
-
 如何处理:
 - What to do with
 - How to deal with
 
-lift:
-- v. 举起
-- n. 升降机（电梯）
-
-experience:
-- v. 体验
-- n. 经历（<mark>可数</mark>），经验（<mark>不可数</mark>）
-
-<<<<<<< HEAD
 提供某物给某人:
 - provide sth. for sb.
 - provide sb. with sth.
@@ -167,38 +133,8 @@ start:
 - What does sb. look like 问外貌
 - What is sb. like 问性格
 
-notice:
-- n. 通知
-- v. 留意(notice sb. dong/do sth.)
-
-break:
-- v. 打破
-- n. 休息
-
-brush:
-- n. 刷子
-- v. 刷
-
-stick:
-- 棍子
-- walking stick 拐杖
-- past stick 接力棒
-- v. 插入，坚持
-
-master:
-- v. 掌握
-- n. 大师
-
-age:
-- n. 年龄，时代
-- v. 使成熟，变老
-
-bridge:
-- n. 桥梁
-- v. 搭建桥梁
-
 sth. happen + { }:
-- to ==sb==
+- to <mark>sb</mark>
 - sw./某时
 
 be good + { }:
@@ -211,10 +147,6 @@ be known/famous + { }:
 - for 以……闻名
 - at 作为……而闻名
 - to 为……所熟知
-
-judge:
-- n. 法官，裁判，评判
-- v. 评价，评定
 
 be/get ready + { }:
 - for sth.(n.)
@@ -235,18 +167,6 @@ buy + { }:
 - show
 - pass
 
-rule:
-- n. 规则
-- v. 统治
-
-trade:
-- n. 贸易
-- v. 买卖
-
-bark:
-- n. 树皮
-- v.狗吠
-
 比赛:
 - race 田径类
 - match/game 球类
@@ -257,14 +177,8 @@ have noting + { }:
 - against 不反对
 - for 不支持
 
-film:
-- n. 电影，胶卷
-- v. 拍摄
-
-benefit:
-- n. 利益
-- v. 使……受益，对……有用
-
 go over:
 - 仔细检查
 - 复习
+
+
